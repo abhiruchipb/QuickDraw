@@ -2,7 +2,6 @@
 
 An interactive computer vision application that allows you to draw in the air using a colored object and a webcam. A real-time neural network then tries to guess what you drew! This project is inspired by Google's [Quick, Draw!](https://quickdraw.withgoogle.com/) game.
 
-[Image of the QuickDraw AI Camera app in use]
 
 ***
 
